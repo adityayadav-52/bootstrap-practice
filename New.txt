@@ -1,0 +1,62 @@
+Breaking Points ---
+--------------------------------
+sm(Small screen) =>572px
+md(Medium Screen) =>768px
+lg(Large Screen) =>992px
+xl(Extra Large) =>1200px
+xxl(Extra Extra Large) =>1400px
+
+
+--------------------------------------------------------
+justify-content-start
+justify-content-end
+justify-content-center
+justify-content-between
+justify-content-around
+justify-content-evenly
+
+----------------------------------------------
+
+alert alert-success
+alert alert-primary
+alert alert-secondary
+alert alert-info
+alert alert-light
+alert alert-dark
+alert alert-danger
+alert alert-warning
+
+-----------------------------------------------
+
+<ul class="list-group">
+<li class="list-group-item">HTML</li>
+<li class="list-group-item">CSS</li>
+<li class="list-group-item">JS</li>
+<li class="list-group-item">JQ</li>
+</ul>
+
+
+-----------------------------
+
+float-start
+float-end
+float-center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
